@@ -1,0 +1,352 @@
+[
+    {
+        "label": "aviso",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "informacion",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "es_numero",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "informacion",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "aviso",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "advertencia",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "es_numero",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "informacion",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "advertencia",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "aviso",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "es_float",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "advertencia",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "informacion",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "aviso",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "es_numero",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "aviso",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "es_numero",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "informacion",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "informacion",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "aviso",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "advertencia",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "es_numero",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "ejercicio_01,ejercicio_02,ejercicio_03,ejercicio_04,ejercicio_05",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ejercicio_01.ejercicio_02.ejercicio_03.ejercicio_04.ejercicio_05",
+        "description": "ejercicio_01.ejercicio_02.ejercicio_03.ejercicio_04.ejercicio_05",
+        "detail": "ejercicio_01.ejercicio_02.ejercicio_03.ejercicio_04.ejercicio_05",
+        "documentation": {}
+    },
+    {
+        "label": "hallar_cociente",
+        "kind": 2,
+        "importPath": "ejercicio_01",
+        "description": "ejercicio_01",
+        "peekOfCode": "def hallar_cociente():\n    print(informacion(\"Hallar cociente\"))\n    while True:\n        numero_1 = es_numero(input(aviso(\"Digite el primer número:\\n \")))\n        if numero_1 == 0:\n            print(error(\"ERROR: El primer número no puede ser cero.\"))\n            continue  # Vuelve al inicio del bucle para solicitar la entrada nuevamente\n        numero_2 = es_numero(input(aviso(\"Digite el segundo número: \\n\")))\n        if numero_2 == 0:\n            print(error((\"ERROR: No se puede realizar porque es una indeterminacion.\")))",
+        "detail": "ejercicio_01",
+        "documentation": {}
+    },
+    {
+        "label": "par_impar",
+        "kind": 2,
+        "importPath": "ejercicio_02",
+        "description": "ejercicio_02",
+        "peekOfCode": "def par_impar():\n    print(\" \")\n    print(aviso(\"Hallar par e impar\"))\n    while True:\n        try:\n            print(\" \")\n            print(aviso(\"Digite un numero\"))\n            numero=es_numero(input())\n        except ValueError:\n            print(error(\"Error: Ingrese un número válido.\"))",
+        "detail": "ejercicio_02",
+        "documentation": {}
+    },
+    {
+        "label": "area_circulo",
+        "kind": 2,
+        "importPath": "ejercicio_03",
+        "description": "ejercicio_03",
+        "peekOfCode": "def area_circulo():\n    pi = 3.1416\n    while True:\n        print(aviso(\"Digite el radio de un círculo: \"))\n        radio=es_float(input())\n        if radio <= 0:\n            print(error(\"ERROR: El radio debe ser un número positivo.\"))\n            print(advertencia(\"No se puede hallar el área del círculo. Intenta de nuevo.\"))\n            continue\n        else:",
+        "detail": "ejercicio_03",
+        "documentation": {}
+    },
+    {
+        "label": "hallar_multiplo",
+        "kind": 2,
+        "importPath": "ejercicio_04",
+        "description": "ejercicio_04",
+        "peekOfCode": "def hallar_multiplo():\n    print(informacion(\"Verificar si es múltiplo de 2 y 3\"))\n    print(\" \")\n    while True:\n        print(aviso(\"Digita un numero\\n\"))\n        numero=es_numero(input())\n        if numero <=0:\n            print(\"No permitido\")\n            print(\"Digita un numero mayor a 0 por favor\")\n        elif numero % 2== 0 and numero % 3==0:",
+        "detail": "ejercicio_04",
+        "documentation": {}
+    },
+    {
+        "label": "obtener_fecha",
+        "kind": 2,
+        "importPath": "ejercicio_05",
+        "description": "ejercicio_05",
+        "peekOfCode": "def obtener_fecha(fecha):\n    fecha_int = int(fecha)\n    # Obtener año, mes y día por separado\n    ano = fecha_int // 10000\n    mes = (fecha_int // 100) % 100\n    dia = fecha_int % 100\n    return ano, mes, dia\nwhile True:\n    print(aviso(\"Digita una fecha con el siguiente formato: AAAAMMDD\\n\"))\n    fecha_digitada=es_numero(input())",
+        "detail": "ejercicio_05",
+        "documentation": {}
+    },
+    {
+        "label": "menu",
+        "kind": 2,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "def menu():\n    while True:\n        print(informacion(\"Seleccione un ejercicio a ejecutar:\"))\n        print(\"\")\n        print(informacion(\"1) Cociente de 2 números:\"))\n        print(\"\")\n        print(informacion(\"2) Número par o impar\"))\n        print(\"\")\n        print(informacion(\"3) Hallar area del circulo\"))\n        print(\"\")",
+        "detail": "menu",
+        "documentation": {}
+    },
+    {
+        "label": "es_numero",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def es_numero(valor):\n    while True:\n        try:\n            numero = int(valor)\n            return numero\n        except ValueError:\n            print(error(\"Por favor, ingrese un número válido.\"))\n            print(advertencia(\"Intente nuevamente: \"))\n            valor=int(input())\ndef es_float(valor):",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "es_float",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def es_float(valor):\n    while True:\n        try:\n            numero = float(valor)\n            return numero\n        except ValueError:\n            print(error(\"Por favor, ingrese un número válido.\"))\n            print(advertencia(\"Intente nuevamente: \"))\n            valor=float(input())\ndef texto_color(texto:str, color:str):     ",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "texto_color",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def texto_color(texto:str, color:str):     \n    ascii_color = \"\\033[39m {}\\033[00m\"\n    if color == \"negro\":\n        ascii_color = \"\\033[30m {}\\033[00m\"\n    elif color == \"rojo_oscuro\":\n        ascii_color = \"\\033[31m {}\\033[00m\"\n    elif color == \"verde_oscuro\":\n        ascii_color = \"\\033[32m {}\\033[00m\"\n    elif color == \"amarillo_oscuro\":\n        ascii_color = \"\\033[33m {}\\033[00m\"",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "informacion",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def informacion(texto: str):\n    return texto_color(texto,color=\"verde\")\ndef error(texto: str):\n    return texto_color(texto,color=\"rojo\")\ndef advertencia(texto: str):\n    return texto_color(texto,color=\"amarillo\")\ndef aviso(texto: str):\n    return texto_color(texto,color=\"azul\")",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def error(texto: str):\n    return texto_color(texto,color=\"rojo\")\ndef advertencia(texto: str):\n    return texto_color(texto,color=\"amarillo\")\ndef aviso(texto: str):\n    return texto_color(texto,color=\"azul\")",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "advertencia",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def advertencia(texto: str):\n    return texto_color(texto,color=\"amarillo\")\ndef aviso(texto: str):\n    return texto_color(texto,color=\"azul\")",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "aviso",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def aviso(texto: str):\n    return texto_color(texto,color=\"azul\")",
+        "detail": "util",
+        "documentation": {}
+    }
+]
