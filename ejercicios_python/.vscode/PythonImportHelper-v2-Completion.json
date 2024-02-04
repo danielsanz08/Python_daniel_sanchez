@@ -1,6 +1,201 @@
 [
     {
-        "label": "aviso",
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "rich.table",
+        "description": "rich.table",
+        "isExtraImport": true,
+        "detail": "rich.table",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "rich.table",
+        "description": "rich.table",
+        "isExtraImport": true,
+        "detail": "rich.table",
+        "documentation": {}
+    },
+    {
+        "label": "es_numero_entero",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -8,95 +203,7 @@
         "documentation": {}
     },
     {
-        "label": "informacion",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "error",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "es_numero",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "informacion",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "aviso",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "error",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "advertencia",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "es_numero",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "informacion",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "error",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "advertencia",
-        "importPath": "util",
-        "description": "util",
-        "isExtraImport": true,
-        "detail": "util",
-        "documentation": {}
-    },
-    {
-        "label": "aviso",
+        "label": "es_numero_entero",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -112,7 +219,7 @@
         "documentation": {}
     },
     {
-        "label": "advertencia",
+        "label": "es_numero_entero",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -120,7 +227,7 @@
         "documentation": {}
     },
     {
-        "label": "error",
+        "label": "es_numero_entero",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -128,7 +235,7 @@
         "documentation": {}
     },
     {
-        "label": "informacion",
+        "label": "es_float",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -136,7 +243,7 @@
         "documentation": {}
     },
     {
-        "label": "aviso",
+        "label": "es_numero_entero",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -144,7 +251,7 @@
         "documentation": {}
     },
     {
-        "label": "es_numero",
+        "label": "es_numero_entero",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -152,7 +259,7 @@
         "documentation": {}
     },
     {
-        "label": "aviso",
+        "label": "es_numero_entero",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -160,7 +267,7 @@
         "documentation": {}
     },
     {
-        "label": "es_numero",
+        "label": "es_numero_entero",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -168,7 +275,7 @@
         "documentation": {}
     },
     {
-        "label": "error",
+        "label": "es_letra",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -176,7 +283,7 @@
         "documentation": {}
     },
     {
-        "label": "informacion",
+        "label": "es_letra",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -184,7 +291,7 @@
         "documentation": {}
     },
     {
-        "label": "informacion",
+        "label": "es_numero_entero",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -192,7 +299,7 @@
         "documentation": {}
     },
     {
-        "label": "aviso",
+        "label": "es_palabra",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -200,7 +307,7 @@
         "documentation": {}
     },
     {
-        "label": "error",
+        "label": "es_numero_entero",
         "importPath": "util",
         "description": "util",
         "isExtraImport": true,
@@ -208,19 +315,27 @@
         "documentation": {}
     },
     {
-        "label": "advertencia",
-        "importPath": "util",
-        "description": "util",
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
         "isExtraImport": true,
-        "detail": "util",
+        "detail": "datetime",
         "documentation": {}
     },
     {
-        "label": "es_numero",
-        "importPath": "util",
-        "description": "util",
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
         "isExtraImport": true,
-        "detail": "util",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "num2words",
+        "importPath": "num2words",
+        "description": "num2words",
+        "isExtraImport": true,
+        "detail": "num2words",
         "documentation": {}
     },
     {
@@ -233,11 +348,137 @@
         "documentation": {}
     },
     {
+        "label": "ejercicio_06,ejercicio_07,ejercicio_08,ejercicio_09,ejercicio_10",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ejercicio_06.ejercicio_07.ejercicio_08.ejercicio_09.ejercicio_10",
+        "description": "ejercicio_06.ejercicio_07.ejercicio_08.ejercicio_09.ejercicio_10",
+        "detail": "ejercicio_06.ejercicio_07.ejercicio_08.ejercicio_09.ejercicio_10",
+        "documentation": {}
+    },
+    {
+        "label": "ejercicio_11,ejercicio_12,ejercicio_13,ejercicio_14,ejercicio_15,ejercicio_16",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ejercicio_11.ejercicio_12.ejercicio_13.ejercicio_14.ejercicio_15.ejercicio_16",
+        "description": "ejercicio_11.ejercicio_12.ejercicio_13.ejercicio_14.ejercicio_15.ejercicio_16",
+        "detail": "ejercicio_11.ejercicio_12.ejercicio_13.ejercicio_14.ejercicio_15.ejercicio_16",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"ejercicios_python\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"ejercicios_python\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"ejercicios_python\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"ejercicios_python\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"ejercicios_python\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejemplo",
+        "description": "ejemplo",
+        "peekOfCode": "console = Console()\nif __name__ == '__main__':\n    console.print(\"[bold green]Bienvenido a los ejercicios python[bold green]\")\n    console.print(\"\")\n    console.print(\"[bold green]Daniel Molano Sánchez[bold green]\")\n    console.print(\"\")\n    console.print(\"[bold green]Ficha:2670142[bold green]\")\n    console.print(\"\")\ntable = Table(show_header=True, header_style=\"bold magenta\")\ntable.add_column(\"Menu\", style=\"bright\", width=45)",
+        "detail": "ejemplo",
+        "documentation": {}
+    },
+    {
+        "label": "table",
+        "kind": 5,
+        "importPath": "ejemplo",
+        "description": "ejemplo",
+        "peekOfCode": "table = Table(show_header=True, header_style=\"bold magenta\")\ntable.add_column(\"Menu\", style=\"bright\", width=45)\ntable.add_row(\n    \"[bold green]--Menú--[bold green]\"\n)\ntable.add_row(\n    \"[bold red]Seleccione un ejercicio a ejecutar:[/bold red]\",\n)\ntable.add_row(\n    \"[bold blue]1) Cociente de 2 números:[/bold blue]\",",
+        "detail": "ejemplo",
+        "documentation": {}
+    },
+    {
         "label": "hallar_cociente",
         "kind": 2,
         "importPath": "ejercicio_01",
         "description": "ejercicio_01",
-        "peekOfCode": "def hallar_cociente():\n    print(informacion(\"Hallar cociente\"))\n    while True:\n        numero_1 = es_numero(input(aviso(\"Digite el primer número:\\n \")))\n        if numero_1 == 0:\n            print(error(\"ERROR: El primer número no puede ser cero.\"))\n            continue  # Vuelve al inicio del bucle para solicitar la entrada nuevamente\n        numero_2 = es_numero(input(aviso(\"Digite el segundo número: \\n\")))\n        if numero_2 == 0:\n            print(error((\"ERROR: No se puede realizar porque es una indeterminacion.\")))",
+        "peekOfCode": "def hallar_cociente():\n    console.print(\"[bold green]Hallar cociente[bold green]\")\n    while True:\n        # Solicitar las entradas\n        numero_1 = es_numero_entero(console.input(\"[bold blue]Digite el primer número:[bold blue]\\n \"))\n        numero_2 = es_numero_entero(console.input(\"[bold blue]Digite el segundo número:[bold blue]\\n \"))\n        # Verificar si el segundo número es cero\n        if numero_2 == 0:\n            console.print(\"[bold red]ERROR: Es una indeterminación[bold red]\")\n            continue",
+        "detail": "ejercicio_01",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_01",
+        "description": "ejercicio_01",
+        "peekOfCode": "console = Console()\ndef hallar_cociente():\n    console.print(\"[bold green]Hallar cociente[bold green]\")\n    while True:\n        # Solicitar las entradas\n        numero_1 = es_numero_entero(console.input(\"[bold blue]Digite el primer número:[bold blue]\\n \"))\n        numero_2 = es_numero_entero(console.input(\"[bold blue]Digite el segundo número:[bold blue]\\n \"))\n        # Verificar si el segundo número es cero\n        if numero_2 == 0:\n            console.print(\"[bold red]ERROR: Es una indeterminación[bold red]\")",
         "detail": "ejercicio_01",
         "documentation": {}
     },
@@ -246,7 +487,16 @@
         "kind": 2,
         "importPath": "ejercicio_02",
         "description": "ejercicio_02",
-        "peekOfCode": "def par_impar():\n    print(\" \")\n    print(aviso(\"Hallar par e impar\"))\n    while True:\n        try:\n            print(\" \")\n            print(aviso(\"Digite un numero\"))\n            numero=es_numero(input())\n        except ValueError:\n            print(error(\"Error: Ingrese un número válido.\"))",
+        "peekOfCode": "def par_impar():\n    console.print(\" \")\n    console.print(\"[bold green]Hallar par e impar[bold green]\")\n    while True:\n        numero=es_numero_entero(console.input(\"[bold blue]Digite un numero\\n[bold blue]\"))\n        if numero ==0:\n            console.print(f\"[bold red]ERROR[bold red]\")\n            console.print(f\"[bold cyan]Digite de nuevo[bold cyan]\")\n            continue\n        elif numero % 2==0:",
+        "detail": "ejercicio_02",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_02",
+        "description": "ejercicio_02",
+        "peekOfCode": "console = Console()\n\"\"\"\nE02: En este problema tenemos un único dato de entrada: un valor numérico entero que deberá ingresar el usuario.\nLa salida del algoritmo será informar si el usuario ingresó un valor par o impar. Sabemos que un número par es\naquel que es divisible por 2 o, también, que un número es par si el valor residual que se obtiene al dividirlo\npor 2 es cero. Según lo anterior, podremos informar que el número ingresado por el usuario es par si \nal dividirlo por 2 obtenemos un resto igual a cero. De lo contrario, informaremos que el número es impar\n.\"\"\"\ndef par_impar():\n    console.print(\" \")",
         "detail": "ejercicio_02",
         "documentation": {}
     },
@@ -255,7 +505,16 @@
         "kind": 2,
         "importPath": "ejercicio_03",
         "description": "ejercicio_03",
-        "peekOfCode": "def area_circulo():\n    pi = 3.1416\n    while True:\n        print(aviso(\"Digite el radio de un círculo: \"))\n        radio=es_float(input())\n        if radio <= 0:\n            print(error(\"ERROR: El radio debe ser un número positivo.\"))\n            print(advertencia(\"No se puede hallar el área del círculo. Intenta de nuevo.\"))\n            continue\n        else:",
+        "peekOfCode": "def area_circulo():\n    pi = 3.1416\n    while True:\n        console.print(\"[bold green] --Hallar area del circulo--\")\n        radio = es_float(console.input(\"[bold blue]Digite el radio de un círculo:[bold blue]\\n\"))\n        if radio <= 0:\n            console.print(\"[bold red]ERROR: El radio debe ser un número positivo.[bold red]\")\n            print(\"[bold yellow]No se puede hallar el área del círculo. Intenta de nuevo.[bold yellow]\")\n            continue\n        else:",
+        "detail": "ejercicio_03",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_03",
+        "description": "ejercicio_03",
+        "peekOfCode": "console = Console()\n\"\"\"\nE03: En este problema debemos de definir una constante con el valor de PI como 3.1416 y \ntenemos un único dato de entrada dado por el usuario: un valor numérico que puede ser\nentero o flotante que indicara el radio de un círculo. La salida del algoritmo será el \nárea del círculo teniendo en cuenta que A=PI*r^2. Si el usuario ingresó valor negativo\no cero tendremos que emitir un mensaje informando las causas por las cuales no se podrá\nefectuar la operación. \n\"\"\"\ndef area_circulo():",
         "detail": "ejercicio_03",
         "documentation": {}
     },
@@ -264,35 +523,395 @@
         "kind": 2,
         "importPath": "ejercicio_04",
         "description": "ejercicio_04",
-        "peekOfCode": "def hallar_multiplo():\n    print(informacion(\"Verificar si es múltiplo de 2 y 3\"))\n    print(\" \")\n    while True:\n        print(aviso(\"Digita un numero\\n\"))\n        numero=es_numero(input())\n        if numero <=0:\n            print(\"No permitido\")\n            print(\"Digita un numero mayor a 0 por favor\")\n        elif numero % 2== 0 and numero % 3==0:",
+        "peekOfCode": "def hallar_multiplo():\n    console.print(\"[bold green]Verificar si es múltiplo de 2 y 3[bold green]\")\n    print(\" \")\n    while True:\n        numero=es_numero_entero(console.input(\"[bold blue]Digite un numero[bold blue]\\n\"))\n        if numero <=0:\n            print(\"[bold red]No permitido[bold red]\")\n            print(\"[bold yellow]Digita un numero mayor a 0 por favor[bold yellow]\\n\")\n        elif numero % 2== 0 and numero % 3==0:\n            console.print(f\"[bold green]El número {numero} es múltiplo de 2 y de 3[bold green]:smiley:\")",
         "detail": "ejercicio_04",
         "documentation": {}
     },
     {
-        "label": "obtener_fecha",
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_04",
+        "description": "ejercicio_04",
+        "peekOfCode": "console = Console()\n\"\"\"En este problema tenemos un único dato de entrada: un valor numérico entero que deberá ingresar el usuario.\nLa salida del algoritmo será informar si el numero ingresado por el usuario es múltiplo de 2 y 3. Sabemos\nque un número es múltiplo de otro cuando al dividir estos dos números el residuo sea 0. Si el usuario ingresó\nun valor negativo o cero tendremos que emitir un mensaje informando las causas por las cuales no se podrá \nefectuar la operación. \n\"\"\"\ndef hallar_multiplo():\n    console.print(\"[bold green]Verificar si es múltiplo de 2 y 3[bold green]\")\n    print(\" \")",
+        "detail": "ejercicio_04",
+        "documentation": {}
+    },
+    {
+        "label": "validar_fecha",
         "kind": 2,
         "importPath": "ejercicio_05",
         "description": "ejercicio_05",
-        "peekOfCode": "def obtener_fecha(fecha):\n    fecha_int = int(fecha)\n    # Obtener año, mes y día por separado\n    ano = fecha_int // 10000\n    mes = (fecha_int // 100) % 100\n    dia = fecha_int % 100\n    return ano, mes, dia\nwhile True:\n    print(aviso(\"Digita una fecha con el siguiente formato: AAAAMMDD\\n\"))\n    fecha_digitada=es_numero(input())",
+        "peekOfCode": "def validar_fecha(cadena: str, formato: str = \"%Y%m%d\") -> bool:\n    try:\n        fecha = datetime.strptime(cadena, formato)\n        anio = fecha.year\n        mes = fecha.month\n        dia = fecha.day\n        return True\n    except ValueError as msg_error:\n        console.print(f\"[bold red]Error: {msg_error}[bold red]\")\n        return False",
         "detail": "ejercicio_05",
         "documentation": {}
     },
     {
-        "label": "menu",
+        "label": "extraer_fecha",
         "kind": 2,
+        "importPath": "ejercicio_05",
+        "description": "ejercicio_05",
+        "peekOfCode": "def extraer_fecha(fecha: int) -> ():\n    str_fecha = str(fecha)\n    if len(str_fecha) == 8:\n        if validar_fecha(str_fecha):\n            return str_fecha[:4], str_fecha[4:6], str_fecha[6:8]\n        else:\n            console.print(f\"[bold yellow]La cadena {str_fecha} no está en el formato aaaammdd...[bold yellow]\")\n    else:\n        console.print(f\"[bold red]La cadena {str_fecha} no está en el formato aaaammdd...[bold red]\")\ndef menu_validar_fecha():",
+        "detail": "ejercicio_05",
+        "documentation": {}
+    },
+    {
+        "label": "menu_validar_fecha",
+        "kind": 2,
+        "importPath": "ejercicio_05",
+        "description": "ejercicio_05",
+        "peekOfCode": "def menu_validar_fecha():\n    console.print(\"[bold green]Validación de fecha (aaaammdd)[bold green]\")\n    numero = console.input(\"[bold blue]Ingrese una fecha en el formato aaaammdd\\n[bold blue]\")\n    result = extraer_fecha(numero)\n    if result:\n        console.print(f\"[bold green]El número {numero} representa la fecha {result[2]}/{result[1]}/{result[0]} que es válida[bold green]\")\nif __name__ == \"__main__\":\n    menu_validar_fecha()",
+        "detail": "ejercicio_05",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_05",
+        "description": "ejercicio_05",
+        "peekOfCode": "console = Console()\ndef validar_fecha(cadena: str, formato: str = \"%Y%m%d\") -> bool:\n    try:\n        fecha = datetime.strptime(cadena, formato)\n        anio = fecha.year\n        mes = fecha.month\n        dia = fecha.day\n        return True\n    except ValueError as msg_error:\n        console.print(f\"[bold red]Error: {msg_error}[bold red]\")",
+        "detail": "ejercicio_05",
+        "documentation": {}
+    },
+    {
+        "label": "son_numeros_diferentes",
+        "kind": 2,
+        "importPath": "ejercicio_06",
+        "description": "ejercicio_06",
+        "peekOfCode": "def son_numeros_diferentes(numero_1,numero_2,numero_3):\n    return numero_1 !=numero_2 and numero_2 !=numero_3 and numero_3 !=numero_1\ndef obtener_tamaño(numero_1,numero_2,numero_3):\n    \"\"\"\n    Método que toma tres números como argumentos y devuelve una tupla con el mayor, el mediano y el menor.\n    Args:\n    - numero_1 (float): Primer número de la secuencia.\n    - numero_2 (float): Segundo número de la secuencia.\n    - numero_3 (float): Tercer número de la secuencia.\n    Return:",
+        "detail": "ejercicio_06",
+        "documentation": {}
+    },
+    {
+        "label": "obtener_tamaño",
+        "kind": 2,
+        "importPath": "ejercicio_06",
+        "description": "ejercicio_06",
+        "peekOfCode": "def obtener_tamaño(numero_1,numero_2,numero_3):\n    \"\"\"\n    Método que toma tres números como argumentos y devuelve una tupla con el mayor, el mediano y el menor.\n    Args:\n    - numero_1 (float): Primer número de la secuencia.\n    - numero_2 (float): Segundo número de la secuencia.\n    - numero_3 (float): Tercer número de la secuencia.\n    Return:\n    - tuple: Una tupla con el mayor, mediano y menor de los tres números.\n    \"\"\"",
+        "detail": "ejercicio_06",
+        "documentation": {}
+    },
+    {
+        "label": "menu_tamaño",
+        "kind": 2,
+        "importPath": "ejercicio_06",
+        "description": "ejercicio_06",
+        "peekOfCode": "def menu_tamaño():\n    console.print(\"[bold yellow]Hallar el tamaño de 3 números[bold yellow]\")\n    #Función que solicita al usuario que ingrese tres números y luego imprime el mayor, el mediano y el menor.\n    while True:\n        numero_1 =es_numero_entero(console.input(\"[bold blue]1) Digite un numero\\n[bold blue]\"))\n        numero_2 =es_numero_entero(console.input(\"[bold blue]2) Digite un numero\\n[bold blue]\"))\n        numero_3 =es_numero_entero(console.input(\"[bold blue]3) Digite un numero\\n[bold blue]\"))\n        if son_numeros_diferentes(numero_1, numero_2, numero_3):\n            mayor,mediano,menor = obtener_tamaño(numero_1, numero_2, numero_3)\n            console.print(f\"[bold green]El numero mayor es: {mayor}[bold green]\\n[bold yellow]El numero mediano es:[bold yellow] {mediano}\\n[bold red]El numero menor es [bold red]{menor}\")",
+        "detail": "ejercicio_06",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_06",
+        "description": "ejercicio_06",
+        "peekOfCode": "console = Console()\n\"\"\"\"\nLeer tres valores numéricos enteros, indicar cuál es el mayor, cuál es el del medio y cuál, el menor. \nConsiderar que los tres valores serán diferentes. \n\"\"\"\ndef son_numeros_diferentes(numero_1,numero_2,numero_3):\n    return numero_1 !=numero_2 and numero_2 !=numero_3 and numero_3 !=numero_1\ndef obtener_tamaño(numero_1,numero_2,numero_3):\n    \"\"\"\n    Método que toma tres números como argumentos y devuelve una tupla con el mayor, el mediano y el menor.",
+        "detail": "ejercicio_06",
+        "documentation": {}
+    },
+    {
+        "label": "validar_cateto",
+        "kind": 2,
+        "importPath": "ejercicio_07",
+        "description": "ejercicio_07",
+        "peekOfCode": "def validar_cateto(cateto_1, cateto_2):\n    \"\"\"\n    Función que valida dos catetos y calcula la hipotenusa si ambos son números válidos.\n    Args:\n    - cateto_1 (float): Primer cateto a validar.\n    - cateto_2 (float): Segundo cateto a validar.\n    Returns:\n    - None: La función imprime la hipotenusa si ambos catetos son válidos.\n    - None: Imprime un mensaje de error si al menos uno de los catetos no es un número válido.\n    \"\"\"",
+        "detail": "ejercicio_07",
+        "documentation": {}
+    },
+    {
+        "label": "pedir_catetos",
+        "kind": 2,
+        "importPath": "ejercicio_07",
+        "description": "ejercicio_07",
+        "peekOfCode": "def pedir_catetos():\n    cateto_1 = es_float(console.input(\"[bold blue]Digite cateto 1: [bold blue]\\n\"))\n    cateto_2 = es_float(console.input(\"[bold blue]Digite cateto 2: [bold blue]\\n\"))\n    if cateto_1 and cateto_2:\n        validar_cateto(cateto_1,cateto_2)\nif __name__ == \"__main__\":\n    pedir_catetos()",
+        "detail": "ejercicio_07",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_07",
+        "description": "ejercicio_07",
+        "peekOfCode": "console = Console()\ndef validar_cateto(cateto_1, cateto_2):\n    \"\"\"\n    Función que valida dos catetos y calcula la hipotenusa si ambos son números válidos.\n    Args:\n    - cateto_1 (float): Primer cateto a validar.\n    - cateto_2 (float): Segundo cateto a validar.\n    Returns:\n    - None: La función imprime la hipotenusa si ambos catetos son válidos.\n    - None: Imprime un mensaje de error si al menos uno de los catetos no es un número válido.",
+        "detail": "ejercicio_07",
+        "documentation": {}
+    },
+    {
+        "label": "validar_fecha",
+        "kind": 2,
+        "importPath": "ejercicio_08",
+        "description": "ejercicio_08",
+        "peekOfCode": "def validar_fecha(cadena: str, formato: str = \"%Y%m%d\") -> bool:\n    try:\n        fecha = datetime.strptime(cadena, formato)\n        anio = fecha.year\n        mes = fecha.month\n        dia = fecha.day\n        return True\n    except ValueError as msg_error:\n        console.print(f\"[bold red]Error: {msg_error}[bold red]\")\n        return False",
+        "detail": "ejercicio_08",
+        "documentation": {}
+    },
+    {
+        "label": "extraer_fecha",
+        "kind": 2,
+        "importPath": "ejercicio_08",
+        "description": "ejercicio_08",
+        "peekOfCode": "def extraer_fecha(fecha: int) -> ():\n    str_fecha = str(fecha)\n    if len(str_fecha) == 8:\n        if validar_fecha(str_fecha):\n            return str_fecha[:4], str_fecha[4:6], str_fecha[6:8]\n        else:\n            console.print(f\"[bold yellow]La cadena {str_fecha} no está en el formato aaaammdd...[bold yellow]\")\n    else:\n        console.print(f\"[bold red]La cadena {str_fecha} no está en el formato aaaammdd...[bold red]\")\ndef menu_validar_fecha():",
+        "detail": "ejercicio_08",
+        "documentation": {}
+    },
+    {
+        "label": "menu_validar_fecha",
+        "kind": 2,
+        "importPath": "ejercicio_08",
+        "description": "ejercicio_08",
+        "peekOfCode": "def menu_validar_fecha():\n    console.print(\"[bold green]Validación de fecha (aaaammdd)[bold green]\")\n    numero = console.input(\"[bold blue]Ingrese una fecha en el formato aaaammdd\\n[bold blue]\")\n    result = extraer_fecha(numero)\n    if result:\n        console.print(f\"[bold green]El número {numero} representa la fecha {result[2]}/{result[1]}/{result[0]} que es válida[bold green]\")\nif __name__ == \"__main__\":\n    menu_validar_fecha()",
+        "detail": "ejercicio_08",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_08",
+        "description": "ejercicio_08",
+        "peekOfCode": "console = Console()\ndef validar_fecha(cadena: str, formato: str = \"%Y%m%d\") -> bool:\n    try:\n        fecha = datetime.strptime(cadena, formato)\n        anio = fecha.year\n        mes = fecha.month\n        dia = fecha.day\n        return True\n    except ValueError as msg_error:\n        console.print(f\"[bold red]Error: {msg_error}[bold red]\")",
+        "detail": "ejercicio_08",
+        "documentation": {}
+    },
+    {
+        "label": "mes",
+        "kind": 2,
+        "importPath": "ejercicio_09",
+        "description": "ejercicio_09",
+        "peekOfCode": "def mes(valor: int):\n    \"\"\"\n    Función que toma un número entero y devuelve el nombre del mes correspondiente.\n    Args:\n    - valor (int): Número entero que representa el mes (de 1 a 12).\n    Returns:\n    - None: La función imprime el nombre del mes si el valor está entre 1 y 12.\n    \"\"\"\n    nombres_meses = [\n    \"Enero\", \"Febrero\", \"Marzo\", \"Abril\",",
+        "detail": "ejercicio_09",
+        "documentation": {}
+    },
+    {
+        "label": "obtener_numero",
+        "kind": 2,
+        "importPath": "ejercicio_09",
+        "description": "ejercicio_09",
+        "peekOfCode": "def obtener_numero():\n    numero_str=es_numero_entero(console.input(\"[bold blue]digite un numero del 1 al 12\\n[bold blue]\"))\n    numero=int(numero_str)\n    if 1<= numero <=12:\n        console.print(\"[bold green]Número valido[bold green]\")\n        mes(numero)\n    else:\n        console.print(\"[bold red]ERROR[bold red]\")\nif __name__==\"__main__\":\n    obtener_numero()",
+        "detail": "ejercicio_09",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_09",
+        "description": "ejercicio_09",
+        "peekOfCode": "console = Console()\n\"\"\"\nSe debe de ingresar un numero comprendido entre 1 y 12 por el usuario. El algoritmo debe de imprimir\nel mes correspondiente en texto. \n\"\"\"\ndef mes(valor: int):\n    \"\"\"\n    Función que toma un número entero y devuelve el nombre del mes correspondiente.\n    Args:\n    - valor (int): Número entero que representa el mes (de 1 a 12).",
+        "detail": "ejercicio_09",
+        "documentation": {}
+    },
+    {
+        "label": "obtener_horas",
+        "kind": 2,
+        "importPath": "ejercicio_10",
+        "description": "ejercicio_10",
+        "peekOfCode": "def obtener_horas(segundos):\n    horas = round(segundos / 3600, 3)\n    return horas\n#Función que convierte una cantidad de segundos a minutos.\ndef obtener_minutos(segundos):\n    minutos = round(segundos / 60)\n    return minutos\ndef pedir_valor():\n        console.print(\"[bold yellow]Convertir sgs a mts y hrs[bold yellow]\")\n        segundos = es_numero_entero(console.input(\"[bold blue]Digite el tiempo que invierte en hacer un examen en segundos:[bold blue] \\n\"))",
+        "detail": "ejercicio_10",
+        "documentation": {}
+    },
+    {
+        "label": "obtener_minutos",
+        "kind": 2,
+        "importPath": "ejercicio_10",
+        "description": "ejercicio_10",
+        "peekOfCode": "def obtener_minutos(segundos):\n    minutos = round(segundos / 60)\n    return minutos\ndef pedir_valor():\n        console.print(\"[bold yellow]Convertir sgs a mts y hrs[bold yellow]\")\n        segundos = es_numero_entero(console.input(\"[bold blue]Digite el tiempo que invierte en hacer un examen en segundos:[bold blue] \\n\"))\n        if segundos > 0:\n            horas = obtener_horas(segundos)\n            minutos = obtener_minutos(segundos)\n            console.print(f\"[bold green]Invierte {horas} horas en hacer un examen[bold green]\")",
+        "detail": "ejercicio_10",
+        "documentation": {}
+    },
+    {
+        "label": "pedir_valor",
+        "kind": 2,
+        "importPath": "ejercicio_10",
+        "description": "ejercicio_10",
+        "peekOfCode": "def pedir_valor():\n        console.print(\"[bold yellow]Convertir sgs a mts y hrs[bold yellow]\")\n        segundos = es_numero_entero(console.input(\"[bold blue]Digite el tiempo que invierte en hacer un examen en segundos:[bold blue] \\n\"))\n        if segundos > 0:\n            horas = obtener_horas(segundos)\n            minutos = obtener_minutos(segundos)\n            console.print(f\"[bold green]Invierte {horas} horas en hacer un examen[bold green]\")\n            console.print(f\"[bold blue]Invierte {minutos} minutos en hacer un examen[bold blue]\")\n            console.print(f\"[bold yellow]Invierte {segundos} segundos en hacer un examen[bold yellow]\")\n        else:",
+        "detail": "ejercicio_10",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_10",
+        "description": "ejercicio_10",
+        "peekOfCode": "console = Console()\n#Función que convierte una cantidad de segundos a horas.\ndef obtener_horas(segundos):\n    horas = round(segundos / 3600, 3)\n    return horas\n#Función que convierte una cantidad de segundos a minutos.\ndef obtener_minutos(segundos):\n    minutos = round(segundos / 60)\n    return minutos\ndef pedir_valor():",
+        "detail": "ejercicio_10",
+        "documentation": {}
+    },
+    {
+        "label": "invertir",
+        "kind": 2,
+        "importPath": "ejercicio_11",
+        "description": "ejercicio_11",
+        "peekOfCode": "def invertir(numero):\n    \"\"\"\n    Función que invierte un número.\n    Args:\n    - numero (int or float): Número entero o de punto flotante que se desea invertir.\n    Returns:\n    - str: Cadena que representa el número invertido.\n    \"\"\"\n    cadena_numero=str(numero)\n    numero_invertido=\",\".join(cadena_numero[::-1])",
+        "detail": "ejercicio_11",
+        "documentation": {}
+    },
+    {
+        "label": "pedir_numeros",
+        "kind": 2,
+        "importPath": "ejercicio_11",
+        "description": "ejercicio_11",
+        "peekOfCode": "def pedir_numeros():\n    while True:\n        numero_a=es_numero_entero(console.input(\"[bold blue]digite un numero[bold blue]\\n\"))\n        numero_a_invertir=str(numero_a)\n        if len(numero_a_invertir)>=2:\n           console.print(f\"[bold green]numero invertido {invertir(numero_a_invertir)}[bold green]\")\n           break\n        elif len(numero_a_invertir)<2:\n           console.print(\"[bold yellow]Digita un numero mayor o igual a 2 digitos[bold yellow]\")\n        continue",
+        "detail": "ejercicio_11",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_11",
+        "description": "ejercicio_11",
+        "peekOfCode": "console = Console()\nfrom util import es_numero_entero\n\"\"\"Dado un número entero leído por pantalla, muestre cada uno de los dígitos del número en orden inverso.\nEj: Si el número es 324, se debe mostrar 4, 2, 3. \"\"\"\ndef invertir(numero):\n    \"\"\"\n    Función que invierte un número.\n    Args:\n    - numero (int or float): Número entero o de punto flotante que se desea invertir.\n    Returns:",
+        "detail": "ejercicio_11",
+        "documentation": {}
+    },
+    {
+        "label": "numero_capicua",
+        "kind": 2,
+        "importPath": "ejercicio_12",
+        "description": "ejercicio_12",
+        "peekOfCode": "def numero_capicua(numero):\n        \"\"\"\n    Función que verifica si un número es capicúa.\n    Args:\n    - numero (int): Número entero que se desea verificar.\n    Returns:\n    - bool: True si el número es capicúa, False de lo contrario.\n    \"\"\"\n        numero_str=str(numero)\n        if len(numero_str)%2==0:",
+        "detail": "ejercicio_12",
+        "documentation": {}
+    },
+    {
+        "label": "pedir_numeros",
+        "kind": 2,
+        "importPath": "ejercicio_12",
+        "description": "ejercicio_12",
+        "peekOfCode": "def pedir_numeros():\n    while True:\n        numero=es_numero_entero(console.input(\"[bold blue]Digite un numero[bold blue]\\n\"))\n        number=int(numero)\n        if number>0:\n            console.print(f\"[bold green]{numero_capicua(numero)}[bold green]\")\n            break\n        else:\n            console.print(\"[bold yellow]Digite numeros positivos unicamente[bold yellow]\")\n            continue",
+        "detail": "ejercicio_12",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_12",
+        "description": "ejercicio_12",
+        "peekOfCode": "console = Console()\nfrom util import es_numero_entero\n\"\"\"\nSe debe de ingresar un numero por el usuario, este debe de ser evaluado para verificar que el número de\ncifras sea par y verificar si el número es capicúa o no.\n\"\"\"\ndef numero_capicua(numero):\n        \"\"\"\n    Función que verifica si un número es capicúa.\n    Args:",
+        "detail": "ejercicio_12",
+        "documentation": {}
+    },
+    {
+        "label": "contar_ocurrencias",
+        "kind": 2,
+        "importPath": "ejercicio_13",
+        "description": "ejercicio_13",
+        "peekOfCode": "def contar_ocurrencias(cadena, caracter):\n        \"\"\"\n    Función que cuenta el número de ocurrencias de un carácter en una cadena.\n    Args:\n    - cadena (str): Cadena en la que se buscarán las ocurrencias.\n    - caracter (str): Carácter cuyas ocurrencias se contarán.\n    Returns:\n    - int: Número de ocurrencias del carácter en la cadena.\n    \"\"\"\n        ocurrencias_contadas = cadena.count(caracter)",
+        "detail": "ejercicio_13",
+        "documentation": {}
+    },
+    {
+        "label": "pedir_cadena",
+        "kind": 2,
+        "importPath": "ejercicio_13",
+        "description": "ejercicio_13",
+        "peekOfCode": "def pedir_cadena():\n    while True:\n        cadena_str = es_letra(console.input(\"[bold green]Digite una cadena: [bold green]\\n\"))\n        if cadena_str:\n            while True:\n                letra_str = es_letra(console.input(\"[bold blue]Digite una letra que quiera contar dentro de la cadena: [bold blue]\"))\n                if letra_str:\n                    resultado = contar_ocurrencias(cadena_str, letra_str)\n                    console.print(f\"[bold green]La cantidad que se repite es: {resultado}[bold green]\")\n                    return",
+        "detail": "ejercicio_13",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_13",
+        "description": "ejercicio_13",
+        "peekOfCode": "console = Console()\n\"\"\"\nDesarrollar un algoritmo que reciba como entrada un carácter y de cómo salida el número de ocurrencias de\ndicho carácter en una cadena de caracteres.\n\"\"\"\ndef contar_ocurrencias(cadena, caracter):\n        \"\"\"\n    Función que cuenta el número de ocurrencias de un carácter en una cadena.\n    Args:\n    - cadena (str): Cadena en la que se buscarán las ocurrencias.",
+        "detail": "ejercicio_13",
+        "documentation": {}
+    },
+    {
+        "label": "es_palindroma",
+        "kind": 2,
+        "importPath": "ejercicio_14",
+        "description": "ejercicio_14",
+        "peekOfCode": "def es_palindroma(cadena):\n    \"\"\"\n    Función que verifica si una cadena es un palíndromo.\n    Args:\n    - cadena (str): Cadena que se desea verificar.\n    Returns:\n    - bool: True si la cadena es un palíndromo, False de lo contrario.\n    \"\"\"\n    return cadena == cadena[::-1]\ndef pedir_cadena():",
+        "detail": "ejercicio_14",
+        "documentation": {}
+    },
+    {
+        "label": "pedir_cadena",
+        "kind": 2,
+        "importPath": "ejercicio_14",
+        "description": "ejercicio_14",
+        "peekOfCode": "def pedir_cadena():\n    while True:\n        str_cadena = console.input(\"[bold blue]Digite una cadena: [bold blue]\\n\")\n        if not str_cadena:\n            console.print(\"[bold red]Cadena vacía[bold red]\")\n            continue\n        if es_letra(str_cadena):\n            if es_palindroma(str_cadena):\n                console.print(f\"[bold green]La cadena {str_cadena} es palíndroma[bold green]\")\n            else:",
+        "detail": "ejercicio_14",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_14",
+        "description": "ejercicio_14",
+        "peekOfCode": "console = Console()\n\"\"\"\nDesarrollar un algoritmo que determine si una cadena de caracteres es palíndroma.\nUna cadena se dice palíndromo si al invertirla es igual a ella misma. \n\"\"\"\ndef es_palindroma(cadena):\n    \"\"\"\n    Función que verifica si una cadena es un palíndromo.\n    Args:\n    - cadena (str): Cadena que se desea verificar.",
+        "detail": "ejercicio_14",
+        "documentation": {}
+    },
+    {
+        "label": "numero_palabra",
+        "kind": 2,
+        "importPath": "ejercicio_15",
+        "description": "ejercicio_15",
+        "peekOfCode": "def numero_palabra(numero):\n    palabra = num2words(numero, lang='es')\n    return palabra\ndef solicitar_numero():\n    number = es_numero_entero(console.input(\"[bold blue]Digite un número: [bold blue]\\n\")\n)\n    numero = int(number)\n    if 0 <= numero <= 90:\n        console.print(f\"[bold green]El número {numero} se escribe {numero_palabra(numero)}[bold green]\")\n    else:",
+        "detail": "ejercicio_15",
+        "documentation": {}
+    },
+    {
+        "label": "solicitar_numero",
+        "kind": 2,
+        "importPath": "ejercicio_15",
+        "description": "ejercicio_15",
+        "peekOfCode": "def solicitar_numero():\n    number = es_numero_entero(console.input(\"[bold blue]Digite un número: [bold blue]\\n\")\n)\n    numero = int(number)\n    if 0 <= numero <= 90:\n        console.print(f\"[bold green]El número {numero} se escribe {numero_palabra(numero)}[bold green]\")\n    else:\n        console.print(f\"[bold green]El número {numero} se escribe  {numero_palabra(numero)}[bold green]\")\nif __name__ == \"__main__\":\n    solicitar_numero()",
+        "detail": "ejercicio_15",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_15",
+        "description": "ejercicio_15",
+        "peekOfCode": "console = Console()\nfrom util import es_numero_entero\ndef numero_palabra(numero):\n    palabra = num2words(numero, lang='es')\n    return palabra\ndef solicitar_numero():\n    number = es_numero_entero(console.input(\"[bold blue]Digite un número: [bold blue]\\n\")\n)\n    numero = int(number)\n    if 0 <= numero <= 90:",
+        "detail": "ejercicio_15",
+        "documentation": {}
+    },
+    {
+        "label": "capitalizar",
+        "kind": 2,
+        "importPath": "ejercicio_16",
+        "description": "ejercicio_16",
+        "peekOfCode": "def capitalizar(cadena):\n    return cadena.title()\ndef ingresar_cadena():\n    while True:\n        oracion=es_palabra(console.input(\"[bold blue]Digite una cadena de mminimo 5 palabras\\n\"))\n        if es_palabra(oracion):\n            if len(oracion.split()) >= 5:\n                console.print(f\"[bold green]La cadena capitalizada es {capitalizar(oracion)}[bold green]\")\n                return\n            else:",
+        "detail": "ejercicio_16",
+        "documentation": {}
+    },
+    {
+        "label": "ingresar_cadena",
+        "kind": 2,
+        "importPath": "ejercicio_16",
+        "description": "ejercicio_16",
+        "peekOfCode": "def ingresar_cadena():\n    while True:\n        oracion=es_palabra(console.input(\"[bold blue]Digite una cadena de mminimo 5 palabras\\n\"))\n        if es_palabra(oracion):\n            if len(oracion.split()) >= 5:\n                console.print(f\"[bold green]La cadena capitalizada es {capitalizar(oracion)}[bold green]\")\n                return\n            else:\n                console.print(\"[bold red]La cadena ingresada tiene menos de 5 palabras[bold red]\")\n                continue",
+        "detail": "ejercicio_16",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "ejercicio_16",
+        "description": "ejercicio_16",
+        "peekOfCode": "console = Console()\nfrom util import es_palabra\ndef capitalizar(cadena):\n    return cadena.title()\ndef ingresar_cadena():\n    while True:\n        oracion=es_palabra(console.input(\"[bold blue]Digite una cadena de mminimo 5 palabras\\n\"))\n        if es_palabra(oracion):\n            if len(oracion.split()) >= 5:\n                console.print(f\"[bold green]La cadena capitalizada es {capitalizar(oracion)}[bold green]\")",
+        "detail": "ejercicio_16",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
         "importPath": "menu",
         "description": "menu",
-        "peekOfCode": "def menu():\n    while True:\n        print(informacion(\"Seleccione un ejercicio a ejecutar:\"))\n        print(\"\")\n        print(informacion(\"1) Cociente de 2 números:\"))\n        print(\"\")\n        print(informacion(\"2) Número par o impar\"))\n        print(\"\")\n        print(informacion(\"3) Hallar area del circulo\"))\n        print(\"\")",
+        "peekOfCode": "console = Console()\nif __name__ == '__main__':\n    console.print(\"[bold green]Bienvenido a los ejercicios python[bold green]\")\n    console.print(\"\")\n    console.print(\"[bold green]Daniel Molano Sánchez[bold green]\")\n    console.print(\"\")\n    console.print(\"[bold green]Ficha:2670142[bold green]\")\n    console.print(\"\")\ntable = Table(show_header=True, header_style=\"bold magenta\")\ntable.add_column(\"Menu\", style=\"bright\", width=45)",
         "detail": "menu",
         "documentation": {}
     },
     {
-        "label": "es_numero",
-        "kind": 2,
-        "importPath": "util",
-        "description": "util",
-        "peekOfCode": "def es_numero(valor):\n    while True:\n        try:\n            numero = int(valor)\n            return numero\n        except ValueError:\n            print(error(\"Por favor, ingrese un número válido.\"))\n            print(advertencia(\"Intente nuevamente: \"))\n            valor=int(input())\ndef es_float(valor):",
-        "detail": "util",
+        "label": "table",
+        "kind": 5,
+        "importPath": "menu",
+        "description": "menu",
+        "peekOfCode": "table = Table(show_header=True, header_style=\"bold magenta\")\ntable.add_column(\"Menu\", style=\"bright\", width=45)\ntable.add_row(\n    \"[bold green]--Menú--[bold green]\"\n)\ntable.add_row(\n    \"[bold red]Seleccione un ejercicio a ejecutar:[/bold red]\",\n)\ntable.add_row(\n    \"[bold blue]1) Cociente de 2 números:[/bold blue]\",",
+        "detail": "menu",
         "documentation": {}
     },
     {
@@ -300,7 +919,43 @@
         "kind": 2,
         "importPath": "util",
         "description": "util",
-        "peekOfCode": "def es_float(valor):\n    while True:\n        try:\n            numero = float(valor)\n            return numero\n        except ValueError:\n            print(error(\"Por favor, ingrese un número válido.\"))\n            print(advertencia(\"Intente nuevamente: \"))\n            valor=float(input())\ndef texto_color(texto:str, color:str):     ",
+        "peekOfCode": "def es_float(valor):\n      while True:\n        try:\n            numero = float(valor)\n            return numero\n        except ValueError:\n            print(\"Error: La entrada debe ser un número real.\")\n            valor = input(\"Por favor, ingrese un número real: \")\ndef float_int():\n    while True:",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "float_int",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def float_int():\n    while True:\n        entrada = input(\"Ingrese un número positivo: \")\n        try:\n            numero = float(entrada)\n            if numero >= 0:\n                return numero\n            else:\n                print(\"Error: Por favor, ingrese un número positivo.\")\n        except ValueError:",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "es_letra",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def es_letra(letra):\n    while True:\n        if letra.isalpha():\n            return letra\n        else:\n            print(\"No es válido.\")\n            letra = input(\"Por favor, ingrese solo letras: \")\ndef es_palabra(cadena):\n    palabras = cadena.split()\n    while True:",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "es_palabra",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def es_palabra(cadena):\n    palabras = cadena.split()\n    while True:\n        if all(palabra.isalpha() for palabra in palabras):\n            return cadena\n        else:\n            print(\"No es válido. Ingrese solo palabras.\")\n            cadena = input(\"Por favor, ingrese solo letras: \")\n            palabras = cadena.split()\ndef es_numero_entero(entrada):",
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "es_numero_entero",
+        "kind": 2,
+        "importPath": "util",
+        "description": "util",
+        "peekOfCode": "def es_numero_entero(entrada):\n    while True:\n        try:\n            numero = int(entrada)\n            return numero\n        except ValueError:\n            print(\"Error: La entrada debe ser un número entero.\")\n            entrada = input(\"Por favor, ingrese un número entero: \")\ndef texto_color(texto:str, color:str):     \n    ascii_color = \"\\033[39m {}\\033[00m\"",
         "detail": "util",
         "documentation": {}
     },

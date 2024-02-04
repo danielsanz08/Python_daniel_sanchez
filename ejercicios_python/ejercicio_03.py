@@ -1,4 +1,6 @@
-from util import informacion,error,advertencia,aviso,es_float
+from util import es_float
+from rich.console import Console
+console = Console()
 """
 E03: En este problema debemos de definir una constante con el valor de PI como 3.1416 y 
 tenemos un único dato de entrada dado por el usuario: un valor numérico que puede ser
@@ -10,16 +12,16 @@ efectuar la operación.
 def area_circulo():
     pi = 3.1416
     while True:
-        print(aviso("Digite el radio de un círculo: "))
-        radio=es_float(input())
+        console.print("[bold green] --Hallar area del circulo--")
+        radio = es_float(console.input("[bold blue]Digite el radio de un círculo:[bold blue]\n"))
         if radio <= 0:
-            print(error("ERROR: El radio debe ser un número positivo."))
-            print(advertencia("No se puede hallar el área del círculo. Intenta de nuevo."))
+            console.print("[bold red]ERROR: El radio debe ser un número positivo.[bold red]")
+            print("[bold yellow]No se puede hallar el área del círculo. Intenta de nuevo.[bold yellow]")
             continue
         else:
             area = pi * radio**2
             area_round=round(area,3)
-            print(informacion(f"El área del círculo es: {area_round}"))
+            console.print(f"[bold green]El área del círculo es: {area_round}[bold green]:smiley:")
             break
 
 if __name__ == "__main__":

@@ -1,4 +1,6 @@
-from util import informacion,aviso,error,advertencia,es_numero
+from util import es_numero_entero
+from rich.console import Console
+console = Console()
 """
 E02: En este problema tenemos un único dato de entrada: un valor numérico entero que deberá ingresar el usuario.
 La salida del algoritmo será informar si el usuario ingresó un valor par o impar. Sabemos que un número par es
@@ -7,25 +9,19 @@ por 2 es cero. Según lo anterior, podremos informar que el número ingresado po
 al dividirlo por 2 obtenemos un resto igual a cero. De lo contrario, informaremos que el número es impar
 ."""
 def par_impar():
-    print(" ")
-    print(aviso("Hallar par e impar"))
+    console.print(" ")
+    console.print("[bold green]Hallar par e impar[bold green]")
     while True:
-        try:
-            print(" ")
-            print(aviso("Digite un numero"))
-            numero=es_numero(input())
-        except ValueError:
-            print(error("Error: Ingrese un número válido."))
+        numero=es_numero_entero(console.input("[bold blue]Digite un numero\n[bold blue]"))
+        if numero ==0:
+            console.print(f"[bold red]ERROR[bold red]")
+            console.print(f"[bold cyan]Digite de nuevo[bold cyan]")
             continue
-
-        if numero == 0:
-            print("Error: El número no puede ser cero.")
-            continue
-        elif numero % 2 == 0:
-            print(informacion(f"El número {numero} es par"))
+        elif numero % 2==0:
+            console.print(f"[bold green]El número {numero} es par")
+            break
         else:
-            print(advertencia(f"El número {numero} es impar"))
-        break
-
+            console.print(f"[bold green]El número {numero} es impar")
+            break
 if __name__ == "__main__":
     par_impar()

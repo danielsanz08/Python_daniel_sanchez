@@ -1,24 +1,53 @@
-    
-def es_numero(valor):
-    while True:
-        try:
-            numero = int(valor)
-            return numero
-        except ValueError:
-            print(error("Por favor, ingrese un número válido."))
-            print(advertencia("Intente nuevamente: "))
-            valor=int(input())
 
 def es_float(valor):
-    while True:
+      while True:
         try:
             numero = float(valor)
             return numero
         except ValueError:
-            print(error("Por favor, ingrese un número válido."))
-            print(advertencia("Intente nuevamente: "))
-            valor=float(input())
+            print("Error: La entrada debe ser un número real.")
+            valor = input("Por favor, ingrese un número real: ")
+def float_int():
+    while True:
+        entrada = input("Ingrese un número positivo: ")
+        try:
+            numero = float(entrada)
+            if numero >= 0:
+                return numero
+            else:
+                print("Error: Por favor, ingrese un número positivo.")
+        except ValueError:
+            print("Error: Por favor, ingrese un número válido (int o float).")
+            
+def es_letra(letra):
+    while True:
+        if letra.isalpha():
+            return letra
+        else:
+            print("No es válido.")
+            letra = input("Por favor, ingrese solo letras: ")
+def es_palabra(cadena):
+    palabras = cadena.split()
+    
+    while True:
+        if all(palabra.isalpha() for palabra in palabras):
+            return cadena
+        else:
+            print("No es válido. Ingrese solo palabras.")
+            cadena = input("Por favor, ingrese solo letras: ")
+            palabras = cadena.split()
 
+    
+
+
+def es_numero_entero(entrada):
+    while True:
+        try:
+            numero = int(entrada)
+            return numero
+        except ValueError:
+            print("Error: La entrada debe ser un número entero.")
+            entrada = input("Por favor, ingrese un número entero: ")
 
         
 def texto_color(texto:str, color:str):     
